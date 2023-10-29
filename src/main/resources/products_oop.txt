@@ -1,0 +1,23 @@
+Id,Product,Quantity,Unit
+1,alma,5,kg
+11,körte,15,kg
+25,coca-cola,2,l
+2,coca-cola light,2,l
+
+
+5,COCA-COLA ZERO,2,l
+
+10,zsemle,6,db
+3,kenyér,1,kg
+12,tej,1,liter
+13,vaj,200,g
+6,szalámi,1,rúd
+9,coca-cola,0.5,l
+16,coca-cola LIGHT,0.5,l
+7,szalámi szeletelt,200,g
+8,kalács,0.5,kg
+15,sprite,2,l
+19,sprite,0.5,l
+23,párizsi,1,kg
+
+26,COCA COLA,2,l
